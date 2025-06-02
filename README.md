@@ -24,9 +24,8 @@ This project is a hand gesture recognition system built using Python and OpenCV.
    python main.py
 
 ## Requirements
-Python 3.x
-OpenCV
-[Other libraries]
+- Python 3.x [https://docs.python.org/3/]
+- OpenCV [Homepage: https://opencv.org/]
 
 ## Usage
 - Show gestures in front of the webcam.
