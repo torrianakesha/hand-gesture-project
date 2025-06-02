@@ -1,6 +1,5 @@
-# Hand Gesture Project
+# Hand Gesture Project [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 This project is a hand gesture recognition system built using Python and OpenCV. It allows users to interact with applications through hand gestures captured via webcam.
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Features
 
