@@ -1,5 +1,6 @@
 # Hand Gesture Project
-A project under the Intelligent Agents course that requires the integration of hand gesture recognition.
+This project is a hand gesture recognition system built using Python and OpenCV. It allows users to interact with applications through hand gestures captured via webcam.
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Features
 
@@ -33,5 +34,5 @@ OpenCV
 - The program will detect and classify them.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
     
